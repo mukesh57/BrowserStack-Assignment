@@ -13,7 +13,7 @@ platforms:
     osVersion: 15
     browserName: Safari
     deviceOrientation: portrait
-browserstackLocal: true
+browserstackLocal: false
 buildName: Assignment Report
 buildIdentifier: ${BUILD_NUMBER}
 projectName: BrowserStack Sample
