@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-17T03:24:29Z" name="Default suite" finished-at="2025-01-17T03:27:52Z" duration-ms="202616">
+    <groups>
+    </groups>
+    <test started-at="2025-01-17T03:24:29Z" name="Default test" finished-at="2025-01-17T03:27:52Z" duration-ms="202616">
+      <class name="com.browserstack.tests.AssignmentTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.browserstack.tests.AssignmentTests@636bbbbb]" started-at="2025-01-17T08:54:29Z" name="setup" finished-at="2025-01-17T08:55:15Z" duration-ms="45367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="websiteTextValidationTest()[pri:1, instance:com.browserstack.tests.AssignmentTests@636bbbbb]" started-at="2025-01-17T08:55:15Z" name="websiteTextValidationTest" finished-at="2025-01-17T08:55:44Z" duration-ms="29266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteTextValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.tests.AssignmentTests@636bbbbb]" started-at="2025-01-17T08:55:44Z" name="tearDown" finished-at="2025-01-17T08:55:44Z" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.browserstack.tests.AssignmentTests@636bbbbb]" started-at="2025-01-17T08:55:44Z" name="setup" finished-at="2025-01-17T08:56:27Z" duration-ms="43074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="printFirstFiveArticleTextsTest()[pri:2, instance:com.browserstack.tests.AssignmentTests@636bbbbb]" started-at="2025-01-17T08:56:27Z" name="printFirstFiveArticleTextsTest" finished-at="2025-01-17T08:57:51Z" duration-ms="83602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFirstFiveArticleTextsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.tests.AssignmentTests@636bbbbb]" started-at="2025-01-17T08:57:51Z" name="tearDown" finished-at="2025-01-17T08:57:52Z" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

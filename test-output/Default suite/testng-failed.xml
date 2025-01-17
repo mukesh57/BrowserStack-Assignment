@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="15" parallel="tests" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test-2(failed)">
+    <parameter name="platform" value="2"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="websiteTextValidationTest"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Default test-2(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

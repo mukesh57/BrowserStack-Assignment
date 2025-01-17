@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [BrowserStack Cross Browser Suite]">
+  <test parallel="tests" name="Android Mobile(failed)">
+    <parameter name="browser" value="android"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Android Mobile(failed) -->
+  <test parallel="tests" name="Mobile Browsers(failed)">
+    <parameter name="browser" value="iphone"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Mobile Browsers(failed) -->
+  <test parallel="tests" name="Desktop Browsers(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Desktop Browsers(failed) -->
+  <test parallel="tests" name="Firefox on Desktop(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Firefox on Desktop(failed) -->
+  <test parallel="tests" name="Samsung Galaxy S21 Mobile(failed)">
+    <parameter name="browser" value="samsung"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Samsung Galaxy S21 Mobile(failed) -->
+  <test parallel="tests" name="Google Pixel 5 Mobile(failed)">
+    <parameter name="browser" value="pixel"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Google Pixel 5 Mobile(failed) -->
+  <test parallel="tests" name="Safari on Desktop(failed)">
+    <parameter name="browser" value="safari"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Safari on Desktop(failed) -->
+  <test parallel="tests" name="Edge on Desktop(failed)">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Edge on Desktop(failed) -->
+</suite> <!-- Failed suite [BrowserStack Cross Browser Suite] -->

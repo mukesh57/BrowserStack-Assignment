@@ -1,0 +1,172 @@
+00:34:16.498 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+00:34:16.564 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=3zQNcsNn8spPPZwFJXFX, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=mukeshpatra1, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+00:34:16.610 [Worker-37: Launching mavenrun-5385249e-1cd9-4859-a843-c78456df9337] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:34:43.618 [Worker-37: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:34:43.642 [Worker-37: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:34:43.652 [Worker-37: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:34:43.654 [Worker-37: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:34:47.742 [Worker-37: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:36:42.189 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:36:42.190 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:42.200 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+00:36:42.204 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:36:42.204 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:42.210 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+00:36:43.727 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:36:43.729 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:43.741 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+00:36:43.746 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:36:43.746 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:43.754 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+00:36:56.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:36:56.036 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:56.043 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+00:36:56.047 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:36:56.047 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:56.051 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+00:36:59.117 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:36:59.120 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:59.126 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+00:36:59.131 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:36:59.131 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:36:59.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+00:37:04.623 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:37:04.624 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:37:04.631 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+00:37:04.637 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:37:04.638 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:37:04.647 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+00:37:12.211 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:37:12.212 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:37:12.222 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+00:37:12.227 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:37:12.227 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:37:12.235 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+00:37:22.457 [Worker-41: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:37:22.470 [Worker-41: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:37:22.472 [Worker-41: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:37:36.539 [Worker-44: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:37:36.558 [Worker-44: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:37:36.560 [Worker-44: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:41:47.033 [Worker-43: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:41:47.039 [Worker-43: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:41:47.046 [Worker-43: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:41:47.058 [Worker-43: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:41:47.066 [Worker-43: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:45:34.712 [Worker-42: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:45:34.719 [Worker-42: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:45:34.741 [Worker-42: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:45:34.753 [Worker-42: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+08:32:56.038 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:32:56.040 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+08:32:56.066 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+08:32:56.075 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:32:56.075 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+08:32:56.085 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+08:32:57.073 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:32:57.079 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+08:32:57.100 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+08:32:57.113 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:32:57.113 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+08:32:57.126 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+08:32:59.286 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - false
+08:32:59.354 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/Users/mukeshpatra/eclipse-workspace/Browserstack_Assignment
+08:33:01.714 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:33:01.721 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:33:01.733 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:33:01.751 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:33:01.751 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:33:01.760 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:33:02.653 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:33:02.653 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:33:02.668 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:33:02.680 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:33:02.681 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:33:02.693 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:38:12.084 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:38:12.086 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:38:12.115 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:38:12.130 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:38:12.130 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:38:12.143 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:44:34.526 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:44:34.528 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:34.540 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:44:34.542 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:44:34.542 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:34.555 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:44:35.846 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:44:35.847 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:35.860 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:44:35.863 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:44:35.864 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:35.879 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:44:40.735 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - true
+08:44:40.789 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/Users/mukeshpatra/eclipse-workspace/Browserstack_Assignment
+08:44:43.022 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:44:43.023 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:43.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+08:44:43.035 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:44:43.035 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:43.045 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+08:44:44.362 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:44:44.363 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:44.378 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+08:44:44.383 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:44:44.383 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:44:44.397 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+08:49:41.257 [Worker-70: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+08:49:41.284 [Worker-70: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+08:49:41.297 [Worker-70: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:49:41.299 [Worker-70: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+08:50:30.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:50:30.553 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:30.563 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+08:50:30.565 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:50:30.565 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:30.573 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+08:50:31.958 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:50:31.958 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:31.976 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+08:50:31.978 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:50:31.978 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:31.992 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
+08:50:35.735 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - false
+08:50:35.801 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/Users/mukeshpatra/eclipse-workspace/Browserstack_Assignment
+08:50:45.559 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:50:45.560 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:45.571 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:50:45.584 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:50:45.584 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:45.592 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:50:46.613 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+08:50:46.613 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:46.624 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+08:50:46.632 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+08:50:46.633 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:50:46.647 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+08:54:25.652 [Worker-68: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+08:54:25.659 [Worker-68: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+08:54:25.770 [Worker-68: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+08:54:25.784 [Worker-68: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+08:54:25.789 [Worker-68: Launching AssignmentTests] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_AUTOMATION=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false}
+09:03:49.740 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+09:03:49.744 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+09:03:49.755 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+09:03:49.757 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+09:03:49.757 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+09:03:49.767 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+09:03:51.084 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+09:03:51.085 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+09:03:51.098 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/Browserstack_Assignment
+09:03:51.100 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+09:03:51.100 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+09:03:51.116 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/Browserstack_Assignment
+09:03:54.451 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - true
+09:03:54.507 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/Users/mukeshpatra/eclipse-workspace/Browserstack_Assignment
+10:19:01.732 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:19:01.734 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+10:19:01.747 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Browserstack_Assignment
+10:19:01.748 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:19:01.748 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+10:19:01.759 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Browserstack_Assignment
