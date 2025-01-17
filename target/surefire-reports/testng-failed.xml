@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Surefire suite]" verbose="0">
-  <test name="Surefire test(failed)">
+<suite thread-count="15" parallel="tests" name="Failed suite [Surefire suite]" verbose="0">
+  <test name="Surefire test-2(failed)">
+    <parameter name="platform" value="2"/>
     <classes>
       <class name="com.browserstack.tests.AssignmentTests">
         <methods>
           <include name="translateToEnglishAndPrintTest"/>
+          <include name="websiteTextValidationTest"/>
           <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
           <include name="tearDown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.browserstack.tests.AssignmentTests -->
     </classes>
-  </test> <!-- Surefire test(failed) -->
+  </test> <!-- Surefire test-2(failed) -->
+  <test name="Surefire test-0(failed)">
+    <parameter name="platform" value="0"/>
+    <classes>
+      <class name="com.browserstack.tests.AssignmentTests">
+        <methods>
+          <include name="translateToEnglishAndPrintTest"/>
+          <include name="analyzeTranslatedHeaders"/>
+          <include name="printFirstFiveArticleTextsTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.browserstack.tests.AssignmentTests -->
+    </classes>
+  </test> <!-- Surefire test-0(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

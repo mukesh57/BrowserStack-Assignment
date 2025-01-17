@@ -1,0 +1,30 @@
+# Created at 2025-01-17T16:23:51.339
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:23:51 - INFO  - AssignmentTests - Article 1: El legado amargo de Joe Biden'.
+
+# Created at 2025-01-17T16:23:51.350
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:23:51 - INFO  - AssignmentTests - Article 2: Inmigración, datos y relato'.
+
+# Created at 2025-01-17T16:23:51.353
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:23:51 - INFO  - AssignmentTests - Article 3: Israel y Hamás simulan un acuerdo'.
+
+# Created at 2025-01-17T16:23:51.357
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:23:51 - INFO  - AssignmentTests - Article 4: Derecha radical chic'.
+
+# Created at 2025-01-17T16:23:51.477
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:23:51 - INFO  - AssignmentTests - Article 5: ‘No pasa nada’'.
+
+# Created at 2025-01-17T16:27:13.014
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:27:12 - INFO  - AssignmentTests - Spanish: El legado amargo de Joe Biden -> to English: Joe Biden's bitter legacy'.
+
+# Created at 2025-01-17T16:27:13.094
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:27:13 - INFO  - AssignmentTests - Spanish: Inmigración, datos y relato -> to English: Immigration, data and story'.
+
+# Created at 2025-01-17T16:27:13.180
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:27:13 - INFO  - AssignmentTests - Spanish: Israel y Hamás simulan un acuerdo -> to English: Israel and Hamas simulate an agreement'.
+
+# Created at 2025-01-17T16:27:13.279
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:27:13 - INFO  - AssignmentTests - Spanish: Derecha radical chic -> to English: Radical Chic right'.
+
+# Created at 2025-01-17T16:27:13.493
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '2025-01-17 16:27:13 - INFO  - AssignmentTests - Spanish: ‘No pasa nada’ -> to English: 'No problem''.
+
